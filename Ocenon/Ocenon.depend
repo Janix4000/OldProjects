@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1485206267 source:d:\aaprojekty\c++\w³asne projekty\ocenon\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<fstream>
+

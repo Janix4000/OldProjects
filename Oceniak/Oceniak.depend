@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1477418385 source:d:\projekty\c++\oceniak\main.cpp
+	<iostream>
+	<cstdlib>
+
+1482603739 source:d:\projekty\c++\w³asne projekty\oceniak\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<fstream>
+
+1510307424 source:d:\aaprojekty\c++\w³asne projekty\oceniak\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<fstream>
+

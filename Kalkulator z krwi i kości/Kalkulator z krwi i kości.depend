@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1476804009 source:d:\projekty\c++\kalkulator z krwi i koœci\main.cpp
+	<iostream>
+	<cstdlib>
+
+1476804859 source:d:\projekty\c++\w³asne projekty\kalkulator z krwi i koœci\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+
+1476804859 source:d:\aaprojekty\c++\w³asne projekty\kalkulator z krwi i koœci\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+
