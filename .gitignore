@@ -1,0 +1,8 @@
+*.exe
+
+#CodeBlock 
+*.o
+*.cbp
+*.layout
+*.depend
+*.txt
